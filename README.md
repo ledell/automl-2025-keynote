@@ -8,4 +8,6 @@
 
 🇺🇸 Location: New York, New York, USA
 
+📺 [Watch here](https://www.youtube.com/watch?v=l9b6Dw3OgdQ)
+
 📓 [Slides](https://github.com/ledell/automl-2025-keynote/blob/main/automl_2025_ledell.pdf)
